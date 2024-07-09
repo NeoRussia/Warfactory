@@ -3,7 +3,7 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2859",
+        "id": "forge-14.23.5.2860",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 2,
   "name": "Warfactoy-latest-client(Cleanroom-0.2.2)",
-  "version": "",
+  "version": "1.12.2",
   "author": "Neeyo",
   "files": [
     {
