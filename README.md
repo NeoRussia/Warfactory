@@ -1,6 +1,8 @@
-Fork for Cleanroom alpha2.2.0 of https://github.com/MisterNorwood/Warfactoy forge version
+Fork for Cleanroom loader 0.2.2-alpha of https://github.com/MisterNorwood/Warfactoy forge version
 
-Still requires manual install. I took the liberty of updating several mods so there is no parity with head branch currently.
+Still requires manual install of Cleanroom loader 0.2.2-alpha (just drag the minecraft folder into .minecraft folder after you import the Cleanroom loader instance) 
+
+I took the liberty of updating several mods so there is no parity with head branch currently.
 
 Cleanroom release download: https://github.com/CleanroomMC/Cleanroom/releases/tag/0.2.2-alpha
 
