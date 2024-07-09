@@ -3,16 +3,16 @@
     "version": "1.12.2",
     "modLoaders": [
       {
-        "id": "forge-14.23.5.2860",
+        "id": "forge-14.23.5.2859",
         "primary": true
       }
     ]
   },
   "manifestType": "minecraftModpack",
-  "manifestVersion": 2,
+  "manifestVersion": 1,
   "name": "Warfactoy-latest-client(Cleanroom-0.2.2)",
-  "version": "1.12.2",
-  "author": "Neeyo",
+  "version": "",
+  "author": "",
   "files": [
     {
       "projectID": 70496,
@@ -782,6 +782,11 @@
     {
       "projectID": 237065,
       "fileID": 3331364,
+      "required": true
+    },
+    {
+      "projectID": 289115,
+      "fileID": 3044648,
       "required": true
     },
     {
